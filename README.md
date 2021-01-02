@@ -1,3 +1,25 @@
+# Présentation du projet
+C'est notre 2ème projet. L'objectif étant la réalisation, par équipe, d'un site dynamique sur une durée de 6 semaines. Le thème étant la création d'un site permettant à notre professeur de regrouper l'ensemble des projets réalisés par les élèves de la Wild, afin de pouvoir les présenter à des etreprises pour de futurs collaborations. Ce site a été déployé.
+Notre groupe a utilisé une architecture simple MVC et les langages suivants:
+  * HTML / CSS / Javascript
+  * PHP
+  
+Notre site possède les fonctionnalités suivantes:
+  * Navbar permettant d'accéder directement à un type de projet, barre de recherche, connexion pour la partie administrateur.
+  * Affichage des différents projets sur la page d'accueil avec tri par type de projet.
+  * Footer permettant d'avoir les coordonnées de notre professeur et école pour plus de renseignements.
+  * Une page de détails de présentation d'un projet, avec images des pages du projet, le type de projet, année, type de langage, description.
+  * une barre de recherche permettant de chercher un mot dans le titre ou dans le descriptif.
+  * une connexion sécurisée vers la partie administrateur.
+  * Possibilité pour l'administrateur d'ajouter, de modifier, supprimer un projet. 
+
+Possibilité de visualisé un aperçu du site dans l'onglet Wiki.-> https://github.com/Angelus-Dev-GitHub/Project2_WildProjects/wiki
+
+
+
+
+
+
 # Simple MVC
 
 ## Description
